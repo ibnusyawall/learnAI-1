@@ -1,0 +1,30 @@
+[
+  {
+    "ask":"masalah penginstallan aplikasi",
+    "jawab": "software"
+  },
+  {
+    "ask":"cpu tidak menyala",
+    "jawab":"hardware"
+  },
+  {
+    "ask":"bug saat booting cpu",
+    "jawab":"hardware"
+  },
+  {
+    "ask":"aplikasi error not found",
+    "jawab":"software"
+  },
+  {
+    "ask":"tidak bisa kembali ke boot",
+    "jawab":"hardware"
+  },
+  {
+    "ask":"error penguraian aplikasi",
+    "jawab":"software"
+  },
+  {
+    "ask":"kesalahan pengelolaan aplikasi",
+    "jawab":"software"
+  },
+]
